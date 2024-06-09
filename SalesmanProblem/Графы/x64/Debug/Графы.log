@@ -1,0 +1,120 @@
+﻿  Source.cpp
+c:\users\romoc\desktop\salesmanproblem\графы\button.h(34): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\romoc\desktop\salesmanproblem\графы\button.h(42): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\romoc\desktop\salesmanproblem\графы\button.h(46): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\romoc\desktop\salesmanproblem\графы\vertexcircle.h(28): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+c:\users\romoc\desktop\salesmanproblem\графы\vertexcircle.h(67): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\romoc\desktop\salesmanproblem\графы\tip.h(22): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\romoc\desktop\salesmanproblem\графы\tip.h(29): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(90): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(123): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(220): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(260): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(545): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(564): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(675): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(691): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(693): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(695): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(698): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(700): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(703): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(705): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(708): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(907): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(909): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(911): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(917): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(919): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(925): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(927): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(933): warning C4244: аргумент: преобразование "T" в "const float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\romoc\desktop\salesmanproblem\графы\graph.h(252): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  c:\users\romoc\desktop\salesmanproblem\графы\graph.h(251): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\romoc\desktop\salesmanproblem\графы\graph.h(83): note: выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::getVertexIndex(const std::string &)"
+  c:\users\romoc\desktop\salesmanproblem\графы\graph.h(74): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(93): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::addVertex(const std::string &,const T &)"
+          with
+          [
+              T=int
+          ]
+  c:\users\romoc\desktop\salesmanproblem\графы\source.cpp(19): note: выполняется компиляция ссылки на экземпляр шаблон класс "Graph<int>"
+c:\users\romoc\desktop\salesmanproblem\графы\graph.h(130): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  c:\users\romoc\desktop\salesmanproblem\графы\graph.h(127): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\romoc\desktop\salesmanproblem\графы\graph.h(99): note: выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::getWidth(void)"
+c:\users\romoc\desktop\salesmanproblem\графы\graph.h(135): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\romoc\desktop\salesmanproblem\графы\graph.h(143): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\romoc\desktop\salesmanproblem\графы\graph.h(345): warning C4715: Graph<int>::findNotVisited: значение возвращается не при всех путях выполнения
+  Графы.vcxproj -> C:\Users\romoc\Desktop\SalesmanProblem\x64\Debug\Графы.exe
